@@ -1,0 +1,17 @@
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\bin\Debug\net8.0\RestaurantApp.BusinessLayer.deps.json
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\bin\Debug\net8.0\RestaurantApp.BusinessLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\bin\Debug\net8.0\RestaurantApp.BusinessLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\bin\Debug\net8.0\RestaurantApp.DataAccessLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\bin\Debug\net8.0\RestaurantApp.EntityLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\bin\Debug\net8.0\RestaurantApp.DataAccessLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\bin\Debug\net8.0\RestaurantApp.EntityLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\RestaurantApp.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\RestaurantApp.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\RestaurantApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\RestaurantApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\RestaurantApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\Restaura.8DA788F3.Up2Date
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\RestaurantApp.BusinessLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\refint\RestaurantApp.BusinessLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\RestaurantApp.BusinessLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.BusinessLayer\obj\Debug\net8.0\ref\RestaurantApp.BusinessLayer.dll

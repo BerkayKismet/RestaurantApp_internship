@@ -1,0 +1,11 @@
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\bin\Debug\net8.0\RestaurantApp.DtoLayer.deps.json
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\bin\Debug\net8.0\RestaurantApp.DtoLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\bin\Debug\net8.0\RestaurantApp.DtoLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\obj\Debug\net8.0\RestaurantApp.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\obj\Debug\net8.0\RestaurantApp.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\obj\Debug\net8.0\RestaurantApp.DtoLayer.AssemblyInfo.cs
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\obj\Debug\net8.0\RestaurantApp.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\obj\Debug\net8.0\RestaurantApp.DtoLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\obj\Debug\net8.0\refint\RestaurantApp.DtoLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\obj\Debug\net8.0\RestaurantApp.DtoLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DtoLayer\obj\Debug\net8.0\ref\RestaurantApp.DtoLayer.dll

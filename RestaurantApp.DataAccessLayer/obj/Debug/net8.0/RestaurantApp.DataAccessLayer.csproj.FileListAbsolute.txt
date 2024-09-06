@@ -1,0 +1,17 @@
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\bin\Debug\net8.0\RestaurantApp.DataAccessLayer.deps.json
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\bin\Debug\net8.0\RestaurantApp.DataAccessLayer.runtimeconfig.json
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\bin\Debug\net8.0\RestaurantApp.DataAccessLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\bin\Debug\net8.0\RestaurantApp.DataAccessLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\bin\Debug\net8.0\RestaurantApp.EntityLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\bin\Debug\net8.0\RestaurantApp.EntityLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\RestaurantApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\RestaurantApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\RestaurantApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\RestaurantApp.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\RestaurantApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\Restaura.62056F3F.Up2Date
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\RestaurantApp.DataAccessLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\refint\RestaurantApp.DataAccessLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\RestaurantApp.DataAccessLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\RestaurantApp.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.DataAccessLayer\obj\Debug\net8.0\ref\RestaurantApp.DataAccessLayer.dll

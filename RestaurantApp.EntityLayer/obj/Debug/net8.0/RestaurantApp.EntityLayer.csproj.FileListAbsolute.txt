@@ -1,0 +1,11 @@
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\bin\Debug\net8.0\RestaurantApp.EntityLayer.deps.json
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\bin\Debug\net8.0\RestaurantApp.EntityLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\bin\Debug\net8.0\RestaurantApp.EntityLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\obj\Debug\net8.0\RestaurantApp.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\obj\Debug\net8.0\RestaurantApp.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\obj\Debug\net8.0\RestaurantApp.EntityLayer.AssemblyInfo.cs
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\obj\Debug\net8.0\RestaurantApp.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\obj\Debug\net8.0\RestaurantApp.EntityLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\obj\Debug\net8.0\refint\RestaurantApp.EntityLayer.dll
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\obj\Debug\net8.0\RestaurantApp.EntityLayer.pdb
+C:\Users\Berkay\Desktop\c#\RestaurantApp\RestaurantApp.EntityLayer\obj\Debug\net8.0\ref\RestaurantApp.EntityLayer.dll
